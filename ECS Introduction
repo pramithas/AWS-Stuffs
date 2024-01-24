@@ -1,0 +1,3 @@
+- It is based on docker and it automatically scales the number of docker containers. So, it promotes high availability.
+	
+- Amazon Elastic Container Service is a container management service which can quickly launch, exit and manage docker containers on a cluster.
